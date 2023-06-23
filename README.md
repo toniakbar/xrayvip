@@ -1,7 +1,3 @@
-# Digital-Net
-- `Update !!! Add DNS Setting`
-- `Note !!! for multipath please change to Xray-core mod in menu script`
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=%09%F0%9D%94%90%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%A5+%F0%9D%94%89%F0%9D%94%AF%F0%9D%94%9E%F0%9D%94%A8%F0%9D%94%B1%F0%9D%94%B2%F0%9D%94%AF&weight=800&size=32&duration=0.1&pause=1&color=F7CD1FFB&center=true&width=435&lines=%F0%9D%95%8A%CC%B6%CD%9F%CC%B6%F0%9D%95%94%CC%B6%CD%9F%CC%B6%F0%9D%95%A3%CC%B6%CD%9F%CC%B6%F0%9D%95%9A%CC%B6%CD%9F%CC%B6%F0%9D%95%A1%CC%B6%CD%9F%CC%B6%F0%9D%95%A5%CC%B6%CD%9F%CC%B6+%CC%B6%CD%9F%CC%B6%F0%9D%95%8F%CC%B6%CD%9F%CC%B6-%CC%B6%CD%9F%CC%B6%F0%9D%95%A3%CC%B6%CD%9F%CC%B6%F0%9D%95%92%CC%B6%CD%9F%CC%B6%F0%9D%95%AA%CC%B6%CD%9F%CC%B6" alt="Typing SVG" /></a>
 </p>
