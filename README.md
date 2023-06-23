@@ -44,6 +44,18 @@
 | HTTPS  | 2053, 2083, 2087, 2096, 8443 |
 | HTTP  | 8080, 8880, 2052, 2082, 2086, 2095 |
 
+## For Debian 9 & 10 Only For First Time Installation (Update Repo) <br>
+ 
+  ```html
+ apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+  ```
+##   For Ubuntu 18.04 & 20.04 Only For First Time Installation (Update Repo) <br>
+  
+  ```html
+ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && apt install curl -y && reboot
+ ```
+## Installation Link<br>
+
 # Installation
 - via WGET
 ```
