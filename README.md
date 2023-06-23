@@ -15,34 +15,40 @@
 </p>
 </div>
 
-|  SERVICE  |  NETWORK PORT  |
-|---------- |--------|
-| Vmess WS TLS (multipath)  | 443 |
-| Vless WS TLS  | 443 |
-| Trojan WS TLS  | 443 |
-| Socks5 WS TLS  | 443 |
-| Shadowsocks WS TLS (aes-256-gcm)  | 443 |
-| Shadowsocks 2022 WS TLS (2022-blake3-aes-256-gcm)  | 443 |
-| Vmess WS (multipath)  | 80 |
-| Vless WS  | 80 |
-| Trojan WS  | 80 |
-| Socks5 WS  | 80 |
-| Shadowsocks WS (aes-256-gcm)  | 80 |
-| Shadowsocks 2022 WS (2022-blake3-aes-256-gcm)  | 80 |
-| Vmess gRPC  | 443 |
-| Vless gRPC  | 443 |
-| Trojan gRPC  | 443 |
-| Socks5 gRPC  | 443 |
-| Shadowsocks gRPC (aes-256-gcm)  | 443 |
-| Shadowsocks 2022 gRPC (2022-blake3-aes-256-gcm)  | 443 |
-| Nginx Webserver | 8000 |
-| Auto Delete Expired Account | ✅ |
-| DNS Setting | ✅ |
+<p align="center">
+</p>
+<h2 align="center">VPN</h2>
 
-|  ALTERNATIF PORT  |  NETWORK PORT  |
-|-------------------|--------|
-| HTTPS  | 2053, 2083, 2087, 2096, 8443 |
-| HTTP  | 8080, 8880, 2052, 2082, 2086, 2095 |
+[![Hits](https://img.shields.io/badge/SSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+</h2>
+<h2 align="center">Network VPN</h2>
+
+[![Hits](https://img.shields.io/badge/SSH-Direct-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/XRAY-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+</h2>
+<h2 align="center">CDN/Reverse Proxy/Websocket</h2>
+
+[![Hits](https://img.shields.io/badge/Domain_Cloudflare_Only-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+</h2>
+<h2 align="center">Protokol Tunneling SSH</h2>
+
+[![Hits](https://img.shields.io/badge/SSH_OpenSSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH_Dropber-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH_SSLH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH_Stunnel4-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH_Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+</h2>
+<h2 align="center">Protokol Tunneling XRAY</h2>
+
+[![Hits](https://img.shields.io/badge/XRAY_VLESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/XRAY_VMESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/XRAY_TROJAN-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge//WORRYFREE-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+</h2>
+
 
 ## For Debian 9 & 10 Only For First Time Installation (Update Repo) <br>
  
