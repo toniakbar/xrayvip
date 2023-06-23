@@ -19,7 +19,7 @@
 </p>
 <h2 align="center">VPN</h2>
 
-[![Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)]
+[Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)
 </h2>
 <h2 align="center">Network VPN</h2>
 
