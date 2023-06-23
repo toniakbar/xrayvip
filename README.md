@@ -56,7 +56,6 @@
  ```
 ## Installation Link<br>
 
-# Installation
 - via WGET
 ```
 bash -c "$(wget -qO- https://raw.githubusercontent.com/toniakbar/xrayvip/master/xray)"
