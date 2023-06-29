@@ -37,8 +37,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -132,8 +133,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -227,8 +229,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -323,8 +326,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -420,8 +424,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -518,8 +523,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -613,8 +619,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -804,8 +811,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -900,8 +908,9 @@
           ]
         }
       }
-    ],
-    "outbounds": [
+    }
+  ],
+  "outbounds": [
     {
       "protocol": "freedom",
       "settings": {}
@@ -997,6 +1006,7 @@
           ]
         }
       }
+    }
   ],
   "outbounds": [
     {
