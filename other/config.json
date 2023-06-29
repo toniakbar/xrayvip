@@ -109,7 +109,8 @@
       "statsOutboundDownlink" : true
     }
   }
-},
+}
+    },
     {
       "listen": "127.0.0.1",
       "port": "10002",
@@ -206,6 +207,7 @@
     }
   }
 }
+    },
     {
       "listen": "127.0.0.1",
       "port": "10003",
@@ -301,6 +303,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -398,6 +401,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -496,6 +500,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -595,6 +600,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -691,6 +697,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -786,6 +793,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -883,6 +891,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -980,6 +989,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
@@ -1078,6 +1088,7 @@
       "statsOutboundDownlink" : true
     }
   }
+}
     },
     {
       "listen": "127.0.0.1",
